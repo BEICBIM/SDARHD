@@ -9,4 +9,4 @@ https://guides.github.com/activities/contributing-to-open-source/
 
 Thanks for your interest and use this content as your guide for being an effective contributor on open source built environment innovation projects.
 
-Content in the SeaBit repository is licensed as described in [License.md](https://github.com/BEICBIM/SeaBit/blob/master/License.md).
+Content in the SeaBit repository is licensed as described in [License.md](https://github.com/BEICBIM/SDARHD/blob/master/License.md).
