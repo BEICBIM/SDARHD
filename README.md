@@ -1,7 +1,11 @@
 # San Diego Affordable Rental Housing Development
 Project Based Learning Experience Exploratory Committee of the Built Environment Innovation Cooperative
 
-An expressed requirement, jointly issued in content from [City of San Diego](https://www.sandiego.gov/) and [Civic San Diego](http://civicsd.com/) (below) may be used to inform the "driving question" of [Phase One](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase1/TOC.md) in a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge).  What are three viable alternatives (choices or possible solutions) that would meet the expressed requirement for design, delivery, and management of affordable housing, and what do you think makes them viable and preferable to a "do-nothing" alternative? See [Contribute.md](https://github.com/BEICBIM/SDARHD/blob/master/Contribute.md) for information about contributing to this project repository. Note the limitations described in [Disclaimer.md](https://github.com/BEICBIM/SDARHD/blob/master/Disclaimer.md). Content in this repository is licensed as described in [License.md](https://github.com/BEICBIM/SDARHD/blob/master/License.md).
+An expressed requirement, jointly issued in content from [City of San Diego](https://www.sandiego.gov/) and [Civic San Diego](http://civicsd.com/) (below) may be used to inform the "driving question" of [Phase One](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase1/TOC.md) in a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge):
+
+**What are three viable alternatives (choices or possible solutions) that would meet the expressed requirement for design, delivery, and management of affordable housing, and what do you think makes them viable and preferable to a "do-nothing" alternative?** 
+
+See [Contribute.md](https://github.com/BEICBIM/SDARHD/blob/master/Contribute.md) for information about contributing to this project repository. Note the limitations described in [Disclaimer.md](https://github.com/BEICBIM/SDARHD/blob/master/Disclaimer.md). Content in this repository is licensed as described in [License.md](https://github.com/BEICBIM/SDARHD/blob/master/License.md).
 
 ![CIVIC SD](http://civicsd.com/wp-content/uploads/2017/02/News.Release.NOFA_.jpg)
 
