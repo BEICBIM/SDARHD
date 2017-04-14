@@ -15,4 +15,5 @@ The relatively high costs of housing discuourages businesses and young talent lo
 ## When: 
 This requirement was originally published as a Notice of Funding Availability in February of 2017 and is considered "open" until all available funds have been committed.
 
+## The Driving Question:
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
