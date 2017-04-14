@@ -1,4 +1,4 @@
-# [Phase One 5W's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md):
+# [Phase One 5W's & "Driving Question"](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md):
 
 ## What:  
 "Affordable" housing options for people at all income levels that promotes "income diversity" within projects and neighborhoods. Access to said "affordable housing" should allow people to live near their workplaces in order to help reduce traffic congestion and minimize pollution associated with commuting.
@@ -14,3 +14,5 @@ The relatively high costs of housing discuourages businesses and young talent lo
 
 ## When: 
 This requirement was originally published as a Notice of Funding Availability in February of 2017 and is considered "open" until all available funds have been committed.
+
+**What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
