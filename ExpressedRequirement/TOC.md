@@ -4,7 +4,7 @@
 "Affordable" housing options for people at all income levels that promotes "income diversity" within projects and neighborhoods. Access to said "affordable housing" should allow people to live near their workplaces in order to help reduce traffic congestion and minimize pollution associated with commuting.
 
 ## Where:  
-Potential requirement locations for affordable housing have been identified by Civic San Diego in the supporting documentation of their [Notice of Funding Availability for Affordable Housing Projects](http://civicsd.com/programs/affordable-housing/notice-of-funding-availability/).  Among guiding principles for implementation in the [Affordable Housing Master Plan](https://civicsd.app.box.com/v/AHMP-Updated20151217) in the developing affordable housing on real properties retained by the City of San Diego.  A summary of scuh properties  follows:
+Potential requirement locations for affordable housing have been identified by Civic San Diego in the supporting documentation of their [Notice of Funding Availability for Affordable Housing Projects](http://civicsd.com/programs/affordable-housing/notice-of-funding-availability/).  Among guiding principles for implementation in the [Affordable Housing Master Plan](https://civicsd.app.box.com/v/AHMP-Updated20151217) in the developing affordable housing on real properties retained by the City of San Diego.  A summary of such properties  follows:
 
 ## Who: 
 [Civic San Diego](http://civicsd.com/), a [City of San Diego](https://www.sandiego.gov/) owned nonprofit corporation, has a expressed an interest in the requirement for afffordable housing for targeted San Diego communities.   
