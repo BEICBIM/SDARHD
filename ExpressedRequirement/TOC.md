@@ -23,3 +23,11 @@ This requirement was originally published as a Notice of Funding Availability on
 
 ## The Driving Question:
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
+
+Implementing any one or a combination of the below three alternative facilities solutions is preferable to a do nothing alternative:
+
+1.  [Gigahouse](http://gigacrete.com/gigahouse/) site assembled construction system.
+2.  [Kasita](https://kasita.com/) manufactured all-in-one delivered system.
+3.  [Coodo](http://www.coodo.com/) mobile manufactured modular system.
+
+Pricing, style, and sustainability of these alternatives are more likely to encourage business and young talent to relocate to San Diego and are therefore superior to the do-nothing alternative.
