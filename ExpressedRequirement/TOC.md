@@ -24,6 +24,7 @@ This requirement was originally published as a Notice of Funding Availability on
 ## The Driving Question:
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
 
+### Initial Response
 Implementing any one or a combination of the below three alternative facilities solutions is preferable to a do nothing alternative:
 
 1.  [Gigahouse](http://gigacrete.com/gigahouse/) site assembled construction system.
